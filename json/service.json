@@ -1,0 +1,15 @@
+{
+    "services":[
+        {
+            "service_id": 12,
+            "service_name": "Washing",
+            "description": "Dart was unveiled at the GOTO conference in Aarhus, Denmark, October 10–12, 2011.The project was founded by Lars Bak and Kasper Lund.Dart has been around since 2011, but it didn't get any attention outside of Google.",
+            "price": 250.0
+        },{
+            "service_id": 12,
+            "service_name": "Other Service",
+            "description": "Dart was unveiled at the GOTO conference in Aarhus, Denmark, October 10–12, 2011.The project was founded by Lars Bak and Kasper Lund.Dart has been around since 2011, but it didn't get any attention outside of Google.",
+            "price": 50.0
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+  "splashLoadingText": "خدمات الوقود عبر الإنترنت",
+  "@splashLoadingText": {
+    "description": "the text of Splash Screen Loading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginHeaderText": "تسجيل الدخول",
+  "@loginHeaderText": {
+    "description": "the text of Login Header",
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerButton": "إنشاء حساب",
+  "@registerButton": {
+    "description": "the text of Register Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nextButton": "التالي",
+  "@nextButton": {
+    "description": "the text of Next Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "skipButton": "تخطي",
+  "@skipButton": {
+    "description": "the text of Skip Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginButtonText": "تسجيل الدخول",
+  "@loginButtonText": {
+    "description": "the text of Login Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintEmailText": "البريد الإلكتروني",
+  "@hintEmailText": {
+    "description": "the text of hint Email Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPassText": "كلمة المرور",
+  "@hintPassText": {
+    "description": "the text of hint Password Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "len3ErrorMessage": "الرجاء إدخال على الأقل 3 أحرف",
+  "@len3ErrorMessage": {
+    "description": "the text of Email Error Message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailValidErrorMessage": "خطأ في صياغةالبريد الإكتروني ",
+  "@emailValidErrorMessage": {
+    "description": "the text of Email Valid Error Message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "len5ErrorMessage": "الرجاء إدخال على الأقل 5 أحرف",
+  "@len5ErrorMessage": {
+    "description": "the text of Password Error Message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nearTab": "أقرب المحطات",
+  "@nearTab": {
+    "description": "the text of near Stations Tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyTab": "الشركة",
+  "@companyTab": {
+    "description": "the text of Company Tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favTab": "المفضلة",
+  "@favTab": {
+    "description": "the text of Favorites Tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutButton": "تسجيل الخروج",
+  "@logoutButton": {
+    "description": "the text of Logout Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addFavPopup": "إضافة إلى المفضلة",
+  "@addFavPopup": {
+    "description": "the text of Add to Favorite Popup Option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFavPopup": "إزالة من المفضلة",
+  "@removeFavPopup": {
+    "description": "the text of Remove from Favorite Popup Option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "showServices": "عرض الخدمات",
+  "@showServices": {
+    "description": "the text of Show Services Popup Option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vehicQ": "صف المركبات",
+  "@vehicQ": {
+    "description": "the text of list tile vehicle Queue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "benzinText": "البنزين",
+  "@benzinText": {
+    "description": "the text of list tile Benzin",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gasText": "الجاز",
+  "@gasText": {
+    "description": "the text of list tile Gas",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activeText": "النشطة",
+  "@activeText": {
+    "description": "the text of list tile Active Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inActiveText": "غير نشطة",
+  "@inActiveText": {
+    "description": "the text of list tile Active Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quant100": "ممتلئ",
+  "@quant100": {
+    "description": "the text Maximum Limit of Fuel Quantity",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quant0": "فارغ",
+  "@quant0": {
+    "description": "the text Minimum Limit of Fuel Quantity",
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicError": "حدث خطأ ما",
+  "@publicError": {
+    "description": "the text of Ananimous Errors",
+    "type": "text",
+    "placeholders": {}
+  },
+  "remFavMessage": "تم حذفها من المفضلة",
+  "@remFavMessage": {
+    "description": "When a Station is Removed Form Favorite this Message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addedFavMessage": "تمت إضافتها إلى المفضلة",
+  "@addedFavMessage": {
+    "description": "When a Station is added to Favorite this Message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "usernametxt": "إسم المستخدم",
+  "@usernametxt": {
+    "description": "Label Text Of Username",
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPasswordtxt": "كلمة المرور الحالية",
+  "@currentPasswordtxt": {
+    "description": "Label Text Of current Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "requiredFieldsMessage": "هذا الحقل مطلوب",
+  "@requiredFieldsMessage": {
+    "description": "When No Data Entered In Required Fields",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongPass": "كلمة المرور خطأ",
+  "@wrongPass": {
+    "description": "When Password Does not matchs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPasswordtxt": "كلمة المرور الجديدة",
+  "@newPasswordtxt": {
+    "description": "Label Text Of New Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passIsAlreadyExist": "يجب التغيير لكلمة مرور جديدة",
+  "@passIsAlreadyExist": {
+    "description": "When User Enter An existing password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submittxt": "تغيير",
+  "@submittxt": {
+    "description": "To Submit Change Password Operation ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryText": "المحاولة مجددا",
+  "@tryText": {
+    "description": "When Connection Fail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "connErrorMessage": "خطأ: تحقق من الإتصال بالإنترنت",
+  "@connErrorMessage": {
+    "description": "When Connection Fail this message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmQtxt": "تأكيد الصف",
+  "@confirmQtxt": {
+    "description": "Label Text of confirm Q",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingtxt": "جار التحميل",
+  "@loadingtxt": {
+    "description": "Label Text of Loading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedSuccessMessage": "شكرا على رأيك في الخدمة",
+  "@feedSuccessMessage": {
+    "description": "When Feedback sent successfully this message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendtxt": "إرسال",
+  "@sendtxt": {
+    "description": "Label Text of Send",
+    "type": "text",
+    "placeholders": {}
+  },
+  "desctxt": "أكتب رأيك",
+  "@desctxt": {
+    "description": "Label Text of Description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cmpNametxt": "إسم الشركة",
+  "@cmpNametxt": {
+    "description": "Label Text of Company Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sdtxt": "جنيه",
+  "@sdtxt": {
+    "description": "Label Text of SD",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendLoadingtxt": "جاري الإرسال",
+  "@sendLoadingtxt": {
+    "description": "Label Text of Sending Loader",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyStationList": "لا توجد محطة نشطة",
+  "@emptyStationList": {
+    "description": "When List Of Station is Empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFailMessage": "عذرا البريد الإلكتروني أو كلمة المرور خاطئة",
+  "@loginFailMessage": {
+    "description": "When List Of Station is Empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "queuingMessage": "كن متأكدا من أنك لا تزال داخل الصف",
+  "@queuingMessage": {
+    "description": "When List Of Station is Empty",
+    "type": "text",
+    "placeholders": {}
+  }
+}

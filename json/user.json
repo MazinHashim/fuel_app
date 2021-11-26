@@ -1,0 +1,32 @@
+{
+    "id": 1,
+    "name": "Mazin Hashim",
+    "password": "mazin200",
+    "token": "mkdvsmlvniidiijLDKJcdsocZCSAcjscs",
+    "email": "maz.hash03@gmail.com",
+    "in_Q": false,
+    "verified": true,
+    "stations":[
+        {
+            "stsId": 1,
+            "stsName": "Petronas AL_3amarat",
+            "password": "petro1231",
+            "address": "Sudan-Khartoum-AL_3amarat st-15",
+            "vec_Q": 20,
+            "lon": 32.545672,
+            "lat": 15.57963,
+            "benzinQ": 85,
+            "gasQ": 13,
+            "verified": true,
+            "services": [
+                {
+                    "servId": 1,
+                    "servName": "cleaning1",
+                    "description": "clean the car",
+                    "price": 200
+                }
+            ],
+            "active": true
+        }
+    ]
+}

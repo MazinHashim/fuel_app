@@ -1,0 +1,151 @@
+[
+    {
+        "cmpId": 1,
+        "cmpName": "Oil Energy",
+        "password": "oil123",
+        "email": "oilenergy@gmail.com",
+        "siteLink": "http://www.oilenergyco.com",
+        "verified": true,
+        "stations": [
+            {
+                "stsId": 3,
+                "stsName": "Oil Energy Taha Ama7i",
+                "password": "oil1232",
+                "address": "Khartoum-60 st-Elshargi",
+                "vec_Q": 20,
+                "lon": 32.50821,
+                "lat": 15.524828,
+                "benzinQ": 69,
+                "gasQ": 0,
+                "verified": true,
+                "services": [],
+                "active": true
+            },
+            {
+                "stsId": 4,
+                "stsName": "Oil Energy Araby",
+                "password": "oil1232",
+                "address": "Sudan-Khartoum-60",
+                "vec_Q": 3,
+                "lon": 32.540752,
+                "lat": 15.565582,
+                "benzinQ": 85,
+                "gasQ": 13,
+                "verified": true,
+                "services": [],
+                "active": true
+            }
+        ]
+    },
+    {
+        "cmpId": 2,
+        "cmpName": "Nile Petrol",
+        "password": "nile123",
+        "email": "nile@gmail.com",
+        "siteLink": "http://www.oilenergyco.com",
+        "verified": true,
+        "stations": [
+            {
+                "stsId": 8,
+                "stsName": "Nile Petrol",
+                "password": "nile1232",
+                "address": "Khartoum-st-Al_3marat-no-15",
+                "vec_Q": 10,
+                "lon": 32.542106,
+                "lat": 15.579273,
+                "benzinQ": 85,
+                "gasQ": 100,
+                "verified": true,
+                "services": [
+                    {
+                        "servId": 2,
+                        "servName": "cleaning2",
+                        "description": "clean the car",
+                        "price": 300
+                    }
+                ],
+                "active": true
+            },
+            {
+                "stsId": 9,
+                "stsName": "Nile Petrol",
+                "password": "nile1232",
+                "address": "Sudan-Khartoum-alnouzha",
+                "vec_Q": 20,
+                "lon": 32.538275,
+                "lat": 15.551067,
+                "benzinQ": 69,
+                "gasQ": 0,
+                "verified": true,
+                "services": [],
+                "active": true
+            },
+            {
+                "stsId": 10,
+                "stsName": "Nile Petrol",
+                "password": "nile1232",
+                "address": "Sudan-Khartoum-Ebied-khatim-st",
+                "vec_Q": 20,
+                "lon": 32.562243,
+                "lat": 15.567579,
+                "benzinQ": 69,
+                "gasQ": 0,
+                "verified": true,
+                "services": [],
+                "active": true
+            }
+        ]
+    },
+    {
+        "cmpId": 4,
+        "cmpName": "Al-Nahlah",
+        "password": "nahla123",
+        "email": "nahla@gmail.com",
+        "siteLink": "http://www.oilenergyco.com",
+        "verified": true,
+        "stations": [
+            {
+                "stsId": 5,
+                "stsName": "Al_Nahlah AL_Matar",
+                "password": "nahla1232",
+                "address": "Khartoum-st-Al_matar-no-59",
+                "vec_Q": 10,
+                "lon": 32.55211,
+                "lat": 15.565108,
+                "benzinQ": 23,
+                "gasQ": 13,
+                "verified": true,
+                "services": [],
+                "active": true
+            },
+            {
+                "stsId": 6,
+                "stsName": "AL_Nahlah M.Najeeb",
+                "password": "nahla1232",
+                "address": "Sudan-Khartoum-st-M.Najeeb",
+                "vec_Q": 5,
+                "lon": 32.546981,
+                "lat": 15.544618,
+                "benzinQ": 0,
+                "gasQ": 56,
+                "verified": true,
+                "services": [],
+                "active": true
+            },
+            {
+                "stsId": 7,
+                "stsName": "AL_Nahlah Al_Ghaba",
+                "password": "nahla1232",
+                "address": "Sudan-Khartoum-st-Al_Ghaba",
+                "vec_Q": 0,
+                "lon": 32.546981,
+                "lat": 15.544618,
+                "benzinQ": 0,
+                "gasQ": 0,
+                "verified": true,
+                "services": [],
+                "active": false
+            }
+        ]
+    }
+]

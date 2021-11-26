@@ -1,0 +1,290 @@
+{
+  "splashLoadingText": "Online Fuel Services",
+  "@splashLoadingText": {
+    "description": "the text of Splash Screen Loading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginHeaderText": "Login",
+  "@loginHeaderText": {
+    "description": "the text of Login Header",
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerButton": "Create Account",
+  "@registerButton": {
+    "description": "the text of Register Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nextButton": "Next",
+  "@nextButton": {
+    "description": "the text of Next Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "skipButton": "Skip",
+  "@skipButton": {
+    "description": "the text of Skip Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginButtonText": "Login",
+  "@loginButtonText": {
+    "description": "the text of Login Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintEmailText": "Email",
+  "@hintEmailText": {
+    "description": "the text of hint Email Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPassText": "Password",
+  "@hintPassText": {
+    "description": "the text of hint Password Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "len3ErrorMessage": "Please Enter at least 3 character",
+  "@len3ErrorMessage": {
+    "description": "the text of Email Error Message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailValidErrorMessage": "Please enter valid email",
+  "@emailValidErrorMessage": {
+    "description": "the text of Email Valid Error Message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "len5ErrorMessage": "Please Enter at least 5 character",
+  "@len5ErrorMessage": {
+    "description": "the text of Email Valid Error Message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nearTab": "Near Stations",
+  "@nearTab": {
+    "description": "the text of near Stations Tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyTab": "Company",
+  "@companyTab": {
+    "description": "the text of Company Tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favTab": "Favorites",
+  "@favTab": {
+    "description": "the text of Favorites Tab",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutButton": "Logout",
+  "@logoutButton": {
+    "description": "the text of Logout Button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addFavPopup": "Add to favorite",
+  "@addFavPopup": {
+    "description": "the text of Add to Favorite Popup Option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFavPopup": "Remove from favorite",
+  "@removeFavPopup": {
+    "description": "the text of Remove from Favorite Popup Option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "showServices": "Show Services",
+  "@showServices": {
+    "description": "the text of Show Services Popup Option",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vehicQ": "vehicles queue",
+  "@vehicQ": {
+    "description": "the text of list tile vehicle Queue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "benzinText": "Benzin",
+  "@benzinText": {
+    "description": "the text of list tile Benzin",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gasText": "Gas",
+  "@gasText": {
+    "description": "the text of list tile Gas",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activeText": "Active",
+  "@activeText": {
+    "description": "the text of list tile Active Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inActiveText": "Inactive",
+  "@inActiveText": {
+    "description": "the text of list tile Active Text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quant100": "FULL",
+  "@quant100": {
+    "description": "the text Maximum Limit of Fuel Quantity",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quant0": "EMPTY",
+  "@quant0": {
+    "description": "the text Minimum Limit of Fuel Quantity",
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicError": "An Error Occured",
+  "@publicError": {
+    "description": "the text of Ananimous Errors",
+    "type": "text",
+    "placeholders": {}
+  },
+  "remFavMessage": "Station removed from favorite",
+  "@remFavMessage": {
+    "description": "When a Station is Removed Form Favorite this Message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addedFavMessage": "Station added to favorite",
+  "@addedFavMessage": {
+    "description": "When a Station is added to Favorite this Message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "usernametxt": "User Name",
+  "@usernametxt": {
+    "description": "Label Text Of Username",
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPasswordtxt": "current Password",
+  "@currentPasswordtxt": {
+    "description": "Label Text Of current Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "requiredFieldsMessage": "This field is required",
+  "@requiredFieldsMessage": {
+    "description": "When No Data Entered In Required Fields",
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongPass": "Password is wrong",
+  "@wrongPass": {
+    "description": "When Password Does not matchs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPasswordtxt": "New Password",
+  "@newPasswordtxt": {
+    "description": "Label Text Of New Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passIsAlreadyExist": "You must change an Existing password",
+  "@passIsAlreadyExist": {
+    "description": "When User Enter An existing password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submittxt": "Submit",
+  "@submittxt": {
+    "description": "To Submit Change Password Operation ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryText": "Try Again",
+  "@tryText": {
+    "description": "When Connection Fail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "connErrorMessage": "Error: Check internet connection",
+  "@connErrorMessage": {
+    "description": "When Connection Fail this message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmQtxt": "confirm Q",
+  "@confirmQtxt": {
+    "description": "Label Text of confirm Q",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingtxt": "Loading",
+  "@loadingtxt": {
+    "description": "Label Text of Loading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedSuccessMessage": "Thank You For Your Feedback",
+  "@feedSuccessMessage": {
+    "description": "When Feedback sent successfully this message will display",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendtxt": "Send",
+  "@sendtxt": {
+    "description": "Label Text of Send",
+    "type": "text",
+    "placeholders": {}
+  },
+  "desctxt": "Description",
+  "@desctxt": {
+    "description": "Label Text of Description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cmpNametxt": "Company Name",
+  "@cmpNametxt": {
+    "description": "Label Text of Company Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sdtxt": "SD",
+  "@sdtxt": {
+    "description": "Label Text of SD",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendLoadingtxt": "Sending",
+  "@sendLoadingtxt": {
+    "description": "Label Text of Sending Loader",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyStationList": "No Active Stations",
+  "@emptyStationList": {
+    "description": "When List Of Station is Empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFailMessage": "Email Or Password is wrong",
+  "@loginFailMessage": {
+    "description": "When List Of Station is Empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "queuingMessage": "You are aproximatly in the queue make sure you are in range or will be taken out of queue",
+  "@queuingMessage": {
+    "description": "When List Of Station is Empty",
+    "type": "text",
+    "placeholders": {}
+  }
+}
